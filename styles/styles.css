@@ -4,9 +4,10 @@
         to bottom,
         rgba(245, 245, 220, 0.301),
         rgba(245, 245, 220, 0.301),
-        url(../img/light.jpg);
+        url(../img/light.jpg));
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
     background-position: relative;
+    
 }
