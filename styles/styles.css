@@ -2,8 +2,8 @@
     height: 100vh;
     background-image: linear-gradient(
         to bottom,
-        rgba(245, 245, 220, 0.301),
-        rgba(245, 245, 220, 0.301)),
+        rgba(245, 245, 220, 0.445),
+        rgba(245, 245, 220, 0.062)),
         url(../img/light.jpg);
     background-size: cover;
     background-repeat: no-repeat;
