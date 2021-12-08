@@ -76,7 +76,7 @@
         background-position: relative;
 }
 
-.home-container > center > .section-heading {
+.home-container > center > h1 {
     color: white;
     position: center;
     position: relative;
