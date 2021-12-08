@@ -52,5 +52,21 @@
 }
 
 .home-container {
-    padding-top: 10rem;
+    height: 100vh;
+    padding-top: 60rem;
+    background-image: linear-gradient(
+        to bottom,
+        rgba(245, 245, 220, 0.301),
+        rgba(245, 245, 220, 0)),
+        url(../img/nobaddays.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: top;
+        background-position: relative;
 }
+
+.home-container > h1 > .section-heading {
+    color: white;
+}
+
+
