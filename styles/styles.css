@@ -40,4 +40,13 @@
     margin-top: 15rem;
     font: arial;
     display: center;
+    color: white;
+}
+
+.container {
+    background-color: black;
+}
+
+.col-md-6 > p {
+    color: white;
 }
