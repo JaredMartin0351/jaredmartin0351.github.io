@@ -50,3 +50,7 @@
 .col-md-6 > p {
     color: white;
 }
+
+.home-container {
+    padding-top: 10rem;
+}
