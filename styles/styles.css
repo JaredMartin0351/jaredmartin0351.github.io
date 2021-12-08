@@ -26,7 +26,7 @@
 }
 
 .portfolio-card--flex {
-    width: 16rem;
+    width: 20%;
     position: relative;
     display: flex;
 }
