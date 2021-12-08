@@ -11,7 +11,9 @@
     background-position: relative;    
 }
 
+.portfolio-wrapper--flex {
+    
+}
 .portfolio-wrapper--flex > .portfolio-card--flex {
     margin: 1rem;
-
 }
