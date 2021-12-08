@@ -21,3 +21,7 @@
 .portfolio-wrapper--flex > .portfolio-card--flex {
     margin: 1rem;
 }
+
+.portfolio-card--flex .card {
+    width: 16rem;
+}
