@@ -82,7 +82,7 @@
     position: relative;
 }
 
-*{
+.section-contact {
     box-sizing: border-box;
 }
   
@@ -107,20 +107,34 @@ input[type=submit]:hover {
     background-color: #242924;
 }
   
-.container {
+.contact-container {
     border-radius: 5px;
     background-color: #f2f2f2;
     padding: 10px;
 }
+
+.contact-container {
+    height: 100vh;
+    background-image: linear-gradient(
+        to bottom,
+        rgba(245, 245, 220, 0.301),
+        rgba(245, 245, 220, 0)),
+        url(../img/contact.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-position: relative;
+    width: 100%;
+}
   
-.column {
-    float: left;
-    width: 50%;
+.contact-container > .column {
+    float: right;
+    width: 100%;
     margin-top: 6px;
     padding: 20px;
 }
   
-.row:after {
+.contact-container > .row:after {
     content: "";
     display: table;
     clear: both;
@@ -131,6 +145,11 @@ input[type=submit]:hover {
       width: 100%;
       margin-top: 0;
     }
+}
+
+.section-contact > .contact-container {
+    text-align: center;
+    color: white;
 }
 
 
