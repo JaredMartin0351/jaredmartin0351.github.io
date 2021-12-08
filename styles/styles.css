@@ -26,3 +26,9 @@
 .portfolio-card--flex {
     width: 16rem;
 }
+
+.portfolio-features {
+    position: fixed;
+    margin: 2rem 3rem;
+    right: 0;
+}
