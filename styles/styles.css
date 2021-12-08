@@ -10,3 +10,8 @@
     background-position: top;
     background-position: relative;    
 }
+
+.portfolio-wrapper--flex > .portfolio-card--flex {
+    margin: 1rem;
+
+}
