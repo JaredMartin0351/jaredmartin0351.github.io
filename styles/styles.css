@@ -37,4 +37,7 @@
 .container > .section-heading {
     margin: 5rem;
     font-size: xx-large;
+    margin-top: 15rem;
+    font: arial;
+    display: center;
 }
