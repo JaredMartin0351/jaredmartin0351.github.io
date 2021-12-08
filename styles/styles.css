@@ -48,8 +48,18 @@
     background-color: black;
 }
 
+.about-container > h2 {
+    color: white;
+    position: center;
+}
+
 .col-md-6 > p {
     color: white;
+}
+
+.col-md-6 > h2 {
+    color: white;
+    position: relative;
 }
 
 .home-container {
@@ -68,7 +78,7 @@
 
 .home-container > center > .section-heading {
     color: white;
-    display: center;
+    position: center;
     position: relative;
 }
 
